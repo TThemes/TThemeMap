@@ -8,6 +8,7 @@ Just download or clone to directory of your choice
 
 ## Contributing
 Feel free to send a pull request to that repository
+
 But, please follow some simple rules:
 - If converter doesn't support that OS please provide a link to it
 - Map file should named `from_to.map`
