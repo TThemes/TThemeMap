@@ -10,7 +10,7 @@ Just download or clone to directory of your choice
 Feel free to send a pull request to that repository
 
 But, please follow some simple rules:
-- If converter doesn't support that OS please provide a link to it
+- If converter doesn't support that OS please provide a link to compatible converter so i can check if that a valid map file
 - Map file should named `from_to.map`
 ```
 ...
