@@ -1,9 +1,11 @@
 # TThemeMap
-![works](https://img.shields.io/badge/desktop-to_android-green.svg?style=flat) ![nope](https://img.shields.io/badge/desktop-to_iOS-red.svg?style=flat) ![kinda](https://img.shields.io/badge/android-to_desktop-yellow.svg?style=flat) ![nope](https://img.shields.io/badge/android-to_iOS-red.svg?style=flat) ![nope](https://img.shields.io/badge/iOS-to_android-red.svg?style=flat) ![nope](https://img.shields.io/badge/iOS-to_desktop-red.svg?style=flat)
 [![Telegram Chat](https://img.shields.io/badge/chat-on%20telegram-0d86d7.svg?style=flat)](https://t.me/TThemesHQ)
 
 
 TThemeMap is repository for map files for telegram theme converters
+
+## Status
+![works](https://img.shields.io/badge/desktop-to_android-green.svg?style=flat) ![nope](https://img.shields.io/badge/desktop-to_iOS-red.svg?style=flat) ![kinda](https://img.shields.io/badge/android-to_desktop-yellow.svg?style=flat) ![nope](https://img.shields.io/badge/android-to_iOS-red.svg?style=flat) ![nope](https://img.shields.io/badge/iOS-to_android-red.svg?style=flat) ![nope](https://img.shields.io/badge/iOS-to_desktop-red.svg?style=flat)
 
 ## Usage
 Just download or clone to directory of your choice
