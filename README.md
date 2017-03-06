@@ -5,7 +5,7 @@
 TThemeMap is repository for map files for telegram theme converters
 
 ## Status
-![works](https://img.shields.io/badge/desktop-to_android-green.svg?style=flat) ![nope](https://img.shields.io/badge/desktop-to_iOS-red.svg?style=flat) ![kinda](https://img.shields.io/badge/android-to_desktop-yellow.svg?style=flat) ![nope](https://img.shields.io/badge/android-to_iOS-red.svg?style=flat) ![nope](https://img.shields.io/badge/iOS-to_android-red.svg?style=flat) ![nope](https://img.shields.io/badge/iOS-to_desktop-red.svg?style=flat)
+[![works](https://img.shields.io/badge/desktop-to_android-green.svg?style=flat)](https://github.com/TThemes/TThemeMap/blob/master/desktop_android.map) [![nope](https://img.shields.io/badge/desktop-to_iOS-red.svg?style=flat)](https://github.com/TThemes/TThemeMap/blob/master/desktop_ios.map) [![kinda](https://img.shields.io/badge/android-to_desktop-yellow.svg?style=flat)](https://github.com/TThemes/TThemeMap/blob/master/android_desktop.map) [![nope](https://img.shields.io/badge/android-to_iOS-red.svg?style=flat)](https://github.com/TThemes/TThemeMap/blob/master/android_ios.map) [![nope](https://img.shields.io/badge/iOS-to_android-red.svg?style=flat)](https://github.com/TThemes/TThemeMap/blob/master/ios_android.map) [![nope](https://img.shields.io/badge/iOS-to_desktop-red.svg?style=flat)](https://github.com/TThemes/TThemeMap/blob/master/ios_desktop.map)
 
 ## Usage
 Just download or clone to directory of your choice
