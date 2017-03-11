@@ -1,3 +1,4 @@
+
 actionBarActionModeDefaultIcon=dialogsMenuIconFg
 actionBarActionModeDefaultSelector=lightButtonBgOver
 actionBarActionModeDefault=topBarBg
@@ -450,6 +451,8 @@ profile_verifiedCheck=dialogsVerifiedIconFg
 progressCircle=windowActiveTextFg
 radioBackgroundChecked=windowActiveTextFg
 radioBackground=windowBgActive
+returnToCallBackground=whatever
+returnToCallText=whatever
 sessions_devicesImage=windowActiveTextFg
 sharedMedia_linkPlaceholder=msgFile1Bg
 sharedMedia_linkPlaceholderText=windowFgActive
