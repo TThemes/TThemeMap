@@ -170,6 +170,7 @@ chat_mediaMenu=windowActiveTextFg
 chat_mediaProgress=radialFg
 chat_mediaSentCheck=historyIconFgInverted
 chat_mediaSentClock=historySendingInvertedIconFg
+chat_mediaTimeBackground=msgDateImgBg
 chat_mediaTimeText=msgDateImgFg
 chat_mediaViews=msgDateImgFg
 chat_messageLinkIn=historyLinkInFg
