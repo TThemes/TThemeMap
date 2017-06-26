@@ -346,6 +346,7 @@ contextProgressOuter1=historyComposeAreaFg
 contextProgressOuter2=dialogsNameFg
 contextProgressOuter3=windowActiveTextFg
 dialogBackground=menuBg
+dialogBackgroundGray=whatever
 dialogBadgeBackground=windowActiveTextFg
 dialogBadgeText=menuBg
 dialogButton=activeButtonFg
